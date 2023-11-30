@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daniel1fonseca
-- 👀 I’m interested in create articles about finance, banks, lenders and brokers
+- 👀 I’m interested in how AI can laverage SEO and marketing content
 - 🌱 I’m currently learning how to instruct the best prompts to my tasks
-- 💞️ I’m looking to collaborate on every project envolving articles creation
+- 💞️ I’m looking to collaborate on every project envolving SEO
 - 📫 How to reach me by the email daniel@shuttle99.com
 
 <!---
